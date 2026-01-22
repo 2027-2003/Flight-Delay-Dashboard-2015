@@ -39,16 +39,16 @@ Dashboarding: Streamlit
 
 Visualization: Matplotlib, Seaborn (Custom Dark-themed UI)
  
-  Project Structure
-Plaintext
+       Project Structure
+         Plaintext
 
-├── src/
-│   └── load_data.py      # Data ingestion logic & ETL functions
-├── app.py                # Main Streamlit application & UI logic
-├── requirements.txt      # Project dependencies
-└── README.md             # Technical documentation
-Getting Started
-Clone the repository:
+            ├── src/
+            │   └── load_data.py      # Data ingestion logic & ETL functions
+            ├── app.py                # Main Streamlit application & UI logic
+            ├── requirements.txt      # Project dependencies
+            └── README.md             # Technical documentation
+    Getting Started
+    Clone the repository:
 
 Bash
 
